@@ -37,20 +37,16 @@ The analysis revealed that UAE _mobile_ users generate **AED 6.09M in revenue** 
 
 **Here's how to fix it:**
 
-a. **Immediate** Actions (0-3 Months):
+##### Immediate Actions _(0-3 Months)_:
 
 - Use automated marketing emails for abandoned carts with personalized product recommendations
-
 - Optimize mobile checkout experience through one-click payment options
-
 - Launch targeted promos for high-value customer segments in UAE and KSA markets
 
-b. **Long-Term** Initiatives (6+ Months):
+##### Long-Term Initiatives _(6+ Months)_:
 
 - Develop predictive customer lifetime value modeling to prioritize retention efforts
-
 - Create VIP customer programs for premium segments spot through spending analysis
-
 - Implement A/B testing framework for continuous conversion rate optimization
 
 I believe these adjustments will target the highest-impact leakage points in the customer journey and create a scalable framework for revenue growth!
